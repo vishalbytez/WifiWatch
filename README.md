@@ -2,7 +2,7 @@
 
 > Discover devices on your local network and inspect network traffic from your terminal.
 
-**Built by Vishal**
+**Built by Vishal.hehe**
 
 WifiWatch is a lightweight Python network utility for home and small-office networks. It helps answer two questions: *which devices are visible on my local network?* and *what traffic can this machine observe for those devices?*
 
@@ -132,7 +132,7 @@ Use WifiWatch only on networks you own or are authorized to administer. Scanning
 
 ## Author
 
-Built by **Vishal**.
+Built by **Vishal.hehe**.
 
 ## License
 
